@@ -1,0 +1,19 @@
+h1{
+    color:red;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+body{
+    background-image: url("../images/03.jfif")
+}
+
+h3{
+    text-align: center;
+    color:cadetblue;
+    background-color:azure
+}
+
+p{
+    color:blue;
+}
