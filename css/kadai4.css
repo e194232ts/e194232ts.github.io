@@ -1,0 +1,29 @@
+h1{
+    color:red;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+table{
+    background-color:aqua
+}
+
+body{
+    background-image: url("../images/05.jpg")
+}
+
+h2#game{
+    text-align: center;
+    color:cadetblue;
+    background-color:azure
+}
+h2#pc{
+    text-align: center;
+    color: cadetblue;
+    background-color: dimgrey
+}
+
+h2#r{
+    text-align: center;
+    background-image: url("../images/04.jfif")
+}
